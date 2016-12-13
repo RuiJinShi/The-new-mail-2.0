@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+	<title>logon</title>
+  <script src="http://code.createjs.com/easeljs-0.8.1.min.js"></script>
+<script src="http://code.createjs.com/tweenjs-0.6.1.min.js"></script>
+<script src="http://code.createjs.com/movieclip-0.8.1.min.js"></script>
+<script src="js/fengjing.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/logon.css">
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="shortcut icon" href="image/1.ico" type="image/x-icon"/>
+    <style type="text/css">
+            .can{
+        width:1200px;
+        height:467px;
+        margin:0 auto;
+      } 
+    </style>
+	 <script src="js/jquery_1_11_1min.js"></script>
+<script type="text/javascript">
+
+   window.onload=function(){
+      canvas = document.getElementById("canvas");
+      exportRoot = new lib.无标题1();
+      stage = new createjs.Stage(canvas);
+      stage.addChild(exportRoot);
+      stage.update();
+
+  createjs.Ticker.setFPS(lib.properties.fps);
+  createjs.Ticker.addEventListener("tick", stage);
+   }
+</script>
+</head>
+<body>
+   <div class="div1">
+      <div class="can">
+  <canvas id="canvas" width="1200" height="467" style="background-color:#FFFFFF" class="can"></canvas>
+      </div>
+   </div>
+   <div class="div2">
+     <input type="text" name="" value="用户名" class="inp">
+          <input type="text" name="" value="密码" class="inp2">
+          <div class="denglu">
+            <p class="p-denglu">
+              登陆
+            </p>
+          </div>
+   </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
