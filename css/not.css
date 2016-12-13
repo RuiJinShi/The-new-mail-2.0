@@ -1,0 +1,138 @@
+body{
+	margin:0 auto;
+	width:100%;
+}
+.notfound{
+	margin:0 auto;
+	width:1350px;
+	height:170px;
+	position: relative;
+}
+.img-svg{
+	width: 358px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 2px;
+    margin-left: 157px;
+}
+.div-neirong{
+-moz-box-shadow:4px 4px 12px -2px rgba(20%,20%,40%,0.5);
+-webkit-box-shadow:4px 4px 12px -2px rgba(20%,20%,40%,0.5);
+            box-shadow:4px 4px 12px 
+            -2px
+             rgba(20%,20%,40%,0.5);
+	border-radius: 10px;
+	margin:0 auto;
+	width:1050px;
+	height:570px;
+	background-color: white;
+	margin-top: 15px;
+}
+.zhaopian{
+    width:363px; 
+    height:480px;
+  /*  background-color: #ccc;*/
+    float:left;
+    margin-top: 45px;
+    margin-left:50px;
+}
+.you-jieshao{
+	width:580px;
+	height:120px;
+	float:right;
+	margin-right: 30px;
+	margin-top: 45px;
+	/*background-color: #ccc;*/
+}
+.you-jieshao-xiangxi{
+    width:580px;
+	height:280px;
+	float:right;
+	margin-right: 30px;
+	margin-top: 10px;
+	/*background-color: #ccc;*/
+}
+.lianxiwomen{
+	width:580px;
+	height:60px;
+	float:right;
+	margin-right: 30px;
+	margin-top: 10px;
+	background-color: #ececec;
+}
+.bucunzai{
+	position: absolute;
+	top:126px;
+	font-size: 30px;
+	display: inline-block;
+    font-style:italic;
+    color: #d6d7e8;
+}
+.bucunzai2{
+	font-size: 26px;
+    font-style:italic;
+   /* color: #d6d7e8;*/
+    margin-top: 20px;
+    float:right;
+    margin-right:20px;
+    line-height: 35px;
+}
+.wenzi-xiao{
+	margin:0 auto;
+	width:560px; 
+	height:30px;
+	background-color: white;
+	margin-top: 5px;
+	font-size:16px;
+	padding-top: 6px;
+}
+.wenzi-xiao2{
+	margin:0 auto;
+	width:560px; 
+	height:30px;
+	background-color: white;
+	margin-top: 20px;
+	font-size:16px;
+	padding-top: 6px;
+}
+.haizi-img{
+	margin:0 auto;
+	margin-left: 11px;
+	width:330px; 
+    height:100%;
+    border-radius: 8px;
+}
+.xiansuo{
+    font-size: 15px;
+    float:right;
+    margin-top:17px;
+    margin-right:30px;
+}
+.shouye{
+    font-size: 15px;
+    float:right;
+    margin-top:17px;
+    margin-right:10px;
+}
+.fenxiang{
+	font-size: 15px;
+    float:left;
+    margin-top:17px;
+    margin-left:10px;
+}
+.qq{
+	width:83px;
+    height:25px;
+    margin-top:18px;
+    margin-left:16px;
+}
+
+
+
+
+
+
+
+
+
+

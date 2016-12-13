@@ -1,0 +1,62 @@
+.div1{
+  width:1200px;
+  height:468px;
+  background-color: #ccc;
+  margin:0 auto;
+}
+.div2{
+
+  border:1px solid #ccc;
+  border-radius: 5px;
+  width:500px;
+  height:222px;
+  /*background-color: #666;*/
+  margin:0 auto;
+  padding-top:70px;
+  margin-top: 5px;
+}
+.inp{
+   border:1px solid #ccc;
+   font-size: 20px;
+   display: block;
+   margin:0 auto;
+   width:260px;
+   height:50px;
+   border-radius: 5px;
+  color:#666;
+}
+.inp2{
+   border:1px solid #ccc;
+   font-size: 20px;
+   margin:0 auto;
+   display: block;
+   width:260px;
+   height:50px;
+   margin-top:20px;
+   border-radius: 5px;
+   color:#666;
+}
+.denglu{
+  margin:0 auto;
+  width:130px;
+  height:50px;
+  background-color:#7dbed7;
+  margin-top:20px;
+  margin-left: 248px;
+  border-radius: 5px;
+}
+.p-denglu{
+   margin:0 auto;
+   font-size: 20px;
+   line-height: 50px;
+   color:white;
+    margin-left:43px;
+}
+
+
+
+
+
+
+
+
